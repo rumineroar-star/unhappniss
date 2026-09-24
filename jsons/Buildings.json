@@ -1,6 +1,6 @@
 [
 	{
-		"name": "neg50percent happiness",
+		"name": "neg80percent happiness",
 		"cost": 0,
 		"isNationalWonder": true,
 		"uniques": ["[-80]% Unhappiness from [Population] [in all cities]"] 
